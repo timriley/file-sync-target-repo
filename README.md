@@ -1,1 +1,3 @@
-# file-sync-target-repo
+<!-- This is a synced README -->
+
+{{ name }}
